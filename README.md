@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Aleksei
 #### I am Frontend Developer 
-<a href="https://ibb.co/GHz2ZtL"><img src="https://i.ibb.co/jJnMCW2/github-header-image.png" alt="github-header-image" border="0"></a>
+<!-- <a href="https://ibb.co/GHz2ZtL"><img src="https://i.ibb.co/jJnMCW2/github-header-image.png" alt="github-header-image" border="0"></a> -->
 
  Web developer with 1+ years of experience, with a primary focus on Angular.
 

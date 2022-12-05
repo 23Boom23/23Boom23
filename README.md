@@ -10,7 +10,7 @@ I like overcoming difficulties on the way to the successful product.
 
 Skills: ANGULAR / RXJS / JS / HTML / CSS. In progress: NodeJs, ReactJ
 
-- 🔭 I’m currently working in WELDBOOK 
+- 🔭 I’m currently working at WELDBOOK 
 - 🌱 I’m currently learning NodeJs, ReactJs. 
 
 

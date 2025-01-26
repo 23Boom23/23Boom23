@@ -2,7 +2,7 @@
 #### I am Frontend Developer 
 <!-- <a href="https://ibb.co/GHz2ZtL"><img src="https://i.ibb.co/jJnMCW2/github-header-image.png" alt="github-header-image" border="0"></a> -->
 
- Web developer with 2+ years of experience, with a primary focus on Angular.
+ Web developer with 3 years of experience, with a primary focus on Angular.
 
 My main expertise is frontend development. I am good at active and thoughtful communication within the team.
 
